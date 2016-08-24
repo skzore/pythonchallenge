@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*- 
+'''
+Created on 2016年8月24日
+@author: skzore
+'''
+print 2**38
